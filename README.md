@@ -35,7 +35,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramadhan14123&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ramadhan14123&hide=css,html,php&show_icons=true&theme=dracula" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhan14123&layout=compact&theme=dracula" height="150"/>
   <img src="https://streak-stats.demolab.com/?user=ramadhan14123&theme=dracula" height="150"/>
 </div>
