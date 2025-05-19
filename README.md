@@ -35,13 +35,35 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramadhan14123&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramadhan14123&layout=compact&theme=dracula" height="150" />
-  <img src="https://streak-stats.demolab.com?user=ramadhan14123&theme=dracula" height="150" />
-</div>
+  
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ramadhan14123&show_icons=true&theme=dracula&cache_seconds=86400" 
+    height="150" 
+    alt="GitHub Stats" 
+  />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramadhan14123&theme=react&area=true&radius=16" height="300" />
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhan14123&layout=compact&theme=dracula&cache_seconds=86400" 
+    height="150" 
+    alt="Top Languages" 
+  />
+
+  <!-- Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com/?user=ramadhan14123&theme=dracula" 
+    height="150" 
+    alt="GitHub Streak" 
+  />
+
+  <!-- Activity Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ramadhan14123&theme=react&area=true&radius=16" 
+    height="300" 
+    alt="GitHub Contribution Graph" 
+  />
+
 </div>
 
 
