@@ -28,7 +28,7 @@ The road keeps unfolding. What's written here is only what's been walked so far.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ramadhan14123&show_icons=true&theme=default&hide_border=true&title_color=C9A227&icon_color=C9A227" height="150">
-  <img src="https://streak-stats.demolab.com/?user=ramadhan14123&theme=default&hide_border=true&ring=C9A227&fire=C9A227" height="150">
+  <img src="https://streak-stats.demolab.com/?user=ramadhan14123&theme=dark&hide_border=true&ring=C9A227&fire=C9A227" height="150">
 </p>
 
 <p align="center"><sub>No grand titles here. Just a knight, two blades, and a road that hasn't ended yet. — Ramadhan, still walking</sub></p>
