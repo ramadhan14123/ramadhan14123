@@ -29,7 +29,13 @@ The road keeps unfolding. What's written here is only what's been walked so far.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ramadhan14123&theme=dark&hide_border=true&ring=C9A227&fire=C9A227" height="150">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com/?user=ramadhan14123&theme=dark&hide_border=true&ring=C9A227&fire=C9A227"
+      alt="GitHub Streak"
+      height="150"
+    />
+  </a>
 </p>
 
 <p align="center"><sub> Just a knight, two blades, and a road that hasn't ended yet. — Ramadhan, still walking</sub></p>
